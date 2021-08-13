@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud-demo1", "crud-demo1.csproj", "{1EA9D204-8050-4AD7-935D-8A40472C1F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud-demo1.Tests", "..\crud-demo1.Tests\crud-demo1.Tests.csproj", "{1D57214F-BC91-4D71-9B46-E1E5D57203EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA9D204-8050-4AD7-935D-8A40472C1F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA9D204-8050-4AD7-935D-8A40472C1F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA9D204-8050-4AD7-935D-8A40472C1F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA9D204-8050-4AD7-935D-8A40472C1F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D57214F-BC91-4D71-9B46-E1E5D57203EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D57214F-BC91-4D71-9B46-E1E5D57203EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D57214F-BC91-4D71-9B46-E1E5D57203EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D57214F-BC91-4D71-9B46-E1E5D57203EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3439DF1-05C0-4D1B-955A-3A206EBE3164}
+	EndGlobalSection
+EndGlobal
